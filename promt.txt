@@ -1,0 +1,2 @@
+Crea un quiz de genero de peliculas favorito con 10 preguntas y 5 generos de peliculas: Acción, Terror, Romance, Comedia, Fantasia y Drama donde al final del quiz muestre una barra de porcentaje de cada genero.
+El quiz debe estar hecho en html, css y js
